@@ -389,7 +389,9 @@ namespace DentalManagementSystem
             Calculate();
         }
 
-     
-      
+        private void frmInvoice_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -52,7 +52,7 @@
             // 
             // Panel1
             // 
-            this.Panel1.BackColor = System.Drawing.Color.Transparent;
+            this.Panel1.BackColor = System.Drawing.Color.Turquoise;
             this.Panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Panel1.Controls.Add(this.LinkLabel2);
             this.Panel1.Controls.Add(this.Label3);
@@ -61,7 +61,7 @@
             this.Panel1.Controls.Add(this.btnOK);
             this.Panel1.Controls.Add(this.UserID);
             this.Panel1.Controls.Add(this.Password);
-            this.Panel1.Location = new System.Drawing.Point(67, 176);
+            this.Panel1.Location = new System.Drawing.Point(86, 60);
             this.Panel1.Name = "Panel1";
             this.Panel1.Size = new System.Drawing.Size(352, 197);
             this.Panel1.TabIndex = 60;
@@ -79,6 +79,7 @@
             this.LinkLabel2.TabIndex = 5;
             this.LinkLabel2.TabStop = true;
             this.LinkLabel2.Text = "Change Password";
+            this.LinkLabel2.Visible = false;
             this.LinkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkLabel2_LinkClicked);
             // 
             // Label3
@@ -145,7 +146,7 @@
             // 
             // UserType
             // 
-            this.UserType.Location = new System.Drawing.Point(107, 139);
+            this.UserType.Location = new System.Drawing.Point(126, 23);
             this.UserType.Name = "UserType";
             this.UserType.Size = new System.Drawing.Size(131, 20);
             this.UserType.TabIndex = 62;
@@ -156,10 +157,9 @@
             this.AcceptButton = this.btnOK;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkOliveGreen;
-            this.BackgroundImage = global::DentalManagementSystem.Properties.Resources.dental_supplies;
+            this.BackColor = System.Drawing.Color.LightSeaGreen;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(759, 523);
+            this.ClientSize = new System.Drawing.Size(553, 270);
             this.Controls.Add(this.UserType);
             this.Controls.Add(this.Panel1);
             this.Controls.Add(this.ProgressBar1);

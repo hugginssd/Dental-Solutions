@@ -40,6 +40,8 @@
             this.txtTelephoneNo = new System.Windows.Forms.TextBox();
             this.txtBillingContactPerson = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.txtContactNo = new System.Windows.Forms.TextBox();
             this.rbFemale = new System.Windows.Forms.RadioButton();
             this.txtPatientID = new System.Windows.Forms.TextBox();
             this.rbMale = new System.Windows.Forms.RadioButton();
@@ -62,8 +64,6 @@
             this.btnNew = new System.Windows.Forms.Button();
             this.Panel2 = new System.Windows.Forms.Panel();
             this.Label1 = new System.Windows.Forms.Label();
-            this.txtContactNo = new System.Windows.Forms.TextBox();
-            this.label11 = new System.Windows.Forms.Label();
             this.Panel1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -196,6 +196,24 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Personal Info";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(20, 159);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(76, 15);
+            this.label11.TabIndex = 17;
+            this.label11.Text = "Contact No. :";
+            // 
+            // txtContactNo
+            // 
+            this.txtContactNo.BackColor = System.Drawing.Color.White;
+            this.txtContactNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContactNo.Location = new System.Drawing.Point(159, 159);
+            this.txtContactNo.Name = "txtContactNo";
+            this.txtContactNo.Size = new System.Drawing.Size(157, 21);
+            this.txtContactNo.TabIndex = 6;
             // 
             // rbFemale
             // 
@@ -415,7 +433,7 @@
             // 
             // Panel2
             // 
-            this.Panel2.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.Panel2.BackColor = System.Drawing.Color.Green;
             this.Panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Panel2.Controls.Add(this.Label1);
             this.Panel2.Location = new System.Drawing.Point(9, 7);
@@ -435,30 +453,12 @@
             this.Label1.TabIndex = 0;
             this.Label1.Text = "Patient Entry";
             // 
-            // txtContactNo
-            // 
-            this.txtContactNo.BackColor = System.Drawing.Color.White;
-            this.txtContactNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtContactNo.Location = new System.Drawing.Point(159, 159);
-            this.txtContactNo.Name = "txtContactNo";
-            this.txtContactNo.Size = new System.Drawing.Size(157, 21);
-            this.txtContactNo.TabIndex = 6;
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(20, 159);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(76, 15);
-            this.label11.TabIndex = 17;
-            this.label11.Text = "Contact No. :";
-            // 
             // frmPatient
             // 
             this.AcceptButton = this.btnSave;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.BackColor = System.Drawing.Color.Green;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(557, 465);
             this.Controls.Add(this.Panel1);

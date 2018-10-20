@@ -586,7 +586,7 @@
             // 
             // Panel2
             // 
-            this.Panel2.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.Panel2.BackColor = System.Drawing.Color.Green;
             this.Panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Panel2.Controls.Add(this.Label1);
             this.Panel2.Location = new System.Drawing.Point(9, 7);
@@ -615,7 +615,7 @@
             this.AcceptButton = this.btnSave;
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.BackColor = System.Drawing.Color.Green;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(739, 521);
             this.Controls.Add(this.Panel1);
