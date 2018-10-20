@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.Form1.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmAbout.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmInvoice.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmInvoiceRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmStaffRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmStaff.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmProcedureRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmProcedure.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmPatientRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmPatient.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmLogs.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmSplash.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmCategory.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmChangePassword.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmLogin.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmMainMenu.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.frmRegistration.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.Properties.Resources.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\Dental Solutions.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\Dental Solutions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.exe
+C:\Users\user\source\repos\DentalManSystem\obj\Debug\DentalManagementSystem.pdb

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalManagementSystem", "DentalManagementSystem.csproj", "{09860F7A-C30E-4EB2-BFC5-FB8734D46872}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dental Solutions", "Dental Solutions.csproj", "{09860F7A-C30E-4EB2-BFC5-FB8734D46872}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33818996-4CAA-46A0-A765-58F29655F9CF}
 	EndGlobalSection
 EndGlobal

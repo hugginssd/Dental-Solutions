@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.Form1.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmAbout.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmInvoice.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmInvoiceRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmStaffRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmStaff.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmProcedureRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmProcedure.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmPatientRecord.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmPatient.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmLogs.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmSplash.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmCategory.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmChangePassword.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmLogin.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmMainMenu.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.frmRegistration.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.Properties.Resources.resources
+C:\Users\user\source\repos\DentalManSystem\obj\Release\Dental Solutions.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DentalManSystem\obj\Release\Dental Solutions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.exe
+C:\Users\user\source\repos\DentalManSystem\obj\Release\DentalManagementSystem.pdb
